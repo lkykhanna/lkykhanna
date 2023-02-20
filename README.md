@@ -11,7 +11,7 @@ I love to contribute to open source projects. I also write about software engine
 - 👯 I have written 3 complete research papers; presented at IIM Bangalore, IIT Madras and 2 are underprocess.
 - 📫 How to reach me: luckykhanna09@gmail.com
 - 😄 Pronouns: He/Him.
-- **📫 Newsletter: [Join](https://frozen-chamber-84180.herokuapp.com/)**
+
 
 
 
